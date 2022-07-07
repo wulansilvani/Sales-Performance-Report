@@ -18,6 +18,8 @@ The dataset that has been provided and will be used in this project contains the
 To get the total sales (sales) based on the sub category of the product (product_sub_category) in 2011 and 2012 only (years) a query is made using SQL. After that, an analysis is carried out on the effectiveness and efficiency of the promotions that have been carried out based on the Burn Rate, namely by comparing the total value of the promotions issued to the total sales obtained. It is expected that the burn rate remains at a maximum of 4.5%
 Burn rate = (total discount / total sales) * 100
 
-Then Derived Tables are made to calculate total sales (sales) and total discount (promotion_value) based on years and formulate the percentage of burn rate (burn_rate_percentage).
+Then Derived Tables are made to calculate total sales (sales) and total discount (promotion_value) based on years and formulate the percentage of burn rate (burn_rate_percentage). [First Code]
 
-The result of this analysis is a table (only the first 5 rows of the expected output) which will be attached to this repository
+Then after getting the results above to find out the number of customers (number_of_customers) who transact every year from 2009 to 2012 (years). [Second Code]
+
+The result of this analysis is a table (only the first 5 rows of the expected output) which will be attached to this repository.
