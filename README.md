@@ -22,4 +22,4 @@ Then Derived Tables are made to calculate total sales (sales) and total discount
 
 Then after getting the results above to find out the number of customers (number_of_customers) who transact every year from 2009 to 2012 (years). [Second Code]
 
-The result of this analysis is a table (only the first 5 rows of the expected output) which will be attached to this repository.
+the result is that the average burn rate of each product category is more than 4.5% and judging from the number of customers, the customer is stagnant at 585-595. This becomes a review material for promotions that are carried out to be more effective and efficient.
